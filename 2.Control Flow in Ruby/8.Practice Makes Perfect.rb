@@ -9,3 +9,8 @@ test_3 = true
 
 # test_4 = 100 == 1000
 test_4 = false
+
+puts test_1
+puts test_2
+puts test_3
+puts test_4
