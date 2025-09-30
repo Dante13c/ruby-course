@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loops & Iterators/18.Iterating with .times.md",
+                "file": "Redacted!/1.What You'll Be Building.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.Iterating with .times"
+              "title": "1.What You'll Be Building"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "97ce9117ccc08615",
   "lastOpenFiles": [
+    "Redacted!/1.What You'll Be Building.rb",
+    "Redacted!/4.Redacted!.md",
+    "Loops & Iterators/18.Iterating with .times.md",
     "Loops & Iterators/15.Looping with 'Until'.md",
     "Loops & Iterators/18.Iterating with .times.rb",
     "Loops & Iterators/14.Looping with 'While'.md",
     "Loops & Iterators/13.The .times Iterator.md",
-    "Loops & Iterators/18.Iterating with .times.md",
     "Loops & Iterators/17.Loop the Loop with Loop.md",
     "Loops & Iterators/17.Loop the Loop with Loop.rb",
     "Loops & Iterators/16.Looping with 'For'.md",
