@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loops & Iterators/17.Loop the Loop with Loop.md",
+                "file": "Loops & Iterators/18.Iterating with .times.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17.Loop the Loop with Loop"
+              "title": "18.Iterating with .times"
             }
           }
         ]
@@ -171,16 +171,18 @@
   },
   "active": "97ce9117ccc08615",
   "lastOpenFiles": [
-    "Loops & Iterators/17.Loop the Loop with Loop.rb",
-    "Loops & Iterators/14.Looping with 'While'.md",
     "Loops & Iterators/15.Looping with 'Until'.md",
-    "Loops & Iterators/16.Looping with 'For'.md",
+    "Loops & Iterators/18.Iterating with .times.rb",
+    "Loops & Iterators/14.Looping with 'While'.md",
+    "Loops & Iterators/13.The .times Iterator.md",
+    "Loops & Iterators/18.Iterating with .times.md",
     "Loops & Iterators/17.Loop the Loop with Loop.md",
+    "Loops & Iterators/17.Loop the Loop with Loop.rb",
+    "Loops & Iterators/16.Looping with 'For'.md",
     "Loops & Iterators/16.Looping with 'For'.rb",
     "Loops & Iterators/15.Looping with 'Until'.rb",
     "Loops & Iterators/14.Looping with 'While'.rb~",
     "Loops & Iterators/14.Looping with 'While'.rb",
-    "Loops & Iterators/13.The .times Iterator.md",
     "Loops & Iterators/13.The .times Iterator.rb",
     "Loops & Iterators/12.Try It Out!.md",
     "Loops & Iterators/6.Inclusive and Exclusive Ranges.md",
@@ -192,8 +194,6 @@
     "Loops & Iterators/12.Try It Out.rb",
     "Loops & Iterators/11.The .each Iterator.rb",
     "Loops & Iterators/10.Saving Multiple Values.rb",
-    "Loops & Iterators/9.Next.rb",
-    "Loops & Iterators/8.The Loop Method.rb",
     "Untitled.md",
     "Loops & Iterators/5.The 'For' Loop.md",
     "Loops & Iterators/4.More Assignment Operators.md",
