@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redacted!/4.Redacted!.md",
+                "file": "Redacted!/5.Control Flow Know-How.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Redacted!"
+              "title": "5.Control Flow Know-How"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redacted!/4.Redacted!.md",
+                "file": "Redacted!/5.Control Flow Know-How.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4.Redacted!"
+              "title": "Backlinks for 5.Control Flow Know-How"
             }
           },
           {
@@ -171,13 +171,14 @@
   },
   "active": "97ce9117ccc08615",
   "lastOpenFiles": [
+    "Redacted!/4.Redacted!.md",
+    "Redacted!/4.Redacted!.rb",
     "Redacted!/3.The .split Method.md",
     "Redacted!/3.The .split Method.rb~",
     "Redacted!/3.The .split Method.rb",
     "Redacted!/2.Getting the User's Input.md",
     "Redacted!/1.What You'll Be Building.md",
     "Redacted!/1.What You'll Be Building.rb",
-    "Redacted!/4.Redacted!.md",
     "Loops & Iterators/18.Iterating with .times.md",
     "Loops & Iterators/15.Looping with 'Until'.md",
     "Loops & Iterators/18.Iterating with .times.rb",
@@ -190,7 +191,6 @@
     "Loops & Iterators/15.Looping with 'Until'.rb",
     "Loops & Iterators/14.Looping with 'While'.rb~",
     "Loops & Iterators/14.Looping with 'While'.rb",
-    "Loops & Iterators/13.The .times Iterator.rb",
     "Loops & Iterators/12.Try It Out!.md",
     "Loops & Iterators/6.Inclusive and Exclusive Ranges.md",
     "Loops & Iterators/7.Building Your Own.md",
