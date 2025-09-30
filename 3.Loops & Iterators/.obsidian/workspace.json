@@ -11,14 +11,12 @@
             "id": "97ce9117ccc08615",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Redacted!/5.Control Flow Know-How.md",
-                "mode": "source",
-                "source": false
+                "file": "Learn Ruby_ Looping with Ruby Cheatsheet _ Codecademy.pdf"
               },
-              "icon": "lucide-file",
-              "title": "5.Control Flow Know-How"
+              "icon": "lucide-file-text",
+              "title": "Learn Ruby_ Looping with Ruby Cheatsheet _ Codecademy"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redacted!/5.Control Flow Know-How.md",
+                "file": "Learn Ruby_ Looping with Ruby Cheatsheet _ Codecademy.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5.Control Flow Know-How"
+              "title": "Backlinks for Learn Ruby_ Looping with Ruby Cheatsheet _ Codecademy"
             }
           },
           {
