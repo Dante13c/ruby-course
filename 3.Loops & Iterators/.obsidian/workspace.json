@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redacted!/1.What You'll Be Building.md",
+                "file": "Redacted!/2.Getting the User's Input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.What You'll Be Building"
+              "title": "2.Getting the User's Input"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "97ce9117ccc08615",
   "lastOpenFiles": [
+    "Redacted!/1.What You'll Be Building.md",
     "Redacted!/1.What You'll Be Building.rb",
     "Redacted!/4.Redacted!.md",
     "Loops & Iterators/18.Iterating with .times.md",
@@ -195,7 +196,6 @@
     "Loops & Iterators/11.The .each Iterator.md",
     "Loops & Iterators/12.Try It Out.rb",
     "Loops & Iterators/11.The .each Iterator.rb",
-    "Loops & Iterators/10.Saving Multiple Values.rb",
     "Untitled.md",
     "Loops & Iterators/5.The 'For' Loop.md",
     "Loops & Iterators/4.More Assignment Operators.md",
